@@ -1,0 +1,13 @@
+
+body{background-color: #d3d3d3;}
+
+  hr{border-style: none;
+   background-color: black;
+   height: 1px;}
+
+h1{color: #2f4f4f;
+   text-shadow: 1px 1px 1px black;
+   font-family: serif;}
+h2{color: #2f4f4f;}
+td{text-transform: capitalize;}
+li{text-transform: capitalize;}
